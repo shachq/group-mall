@@ -4,3 +4,5 @@
 # 布谷鸟社区团购系统 
 # https://www.bgniao.cn/
 大家可通过官网来了解我们的社区团购 
+
+![官网] https://oss-tencent.bgniao.cn/bgniao-open_source/1607652832.jpg
